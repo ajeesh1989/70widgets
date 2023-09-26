@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: const Color.fromARGB(255, 19, 34, 41),
       appBar: AppBar(
-        backgroundColor: Colors.grey.shade900,
+        backgroundColor: Colors.grey.shade800,
         title: const Text('Flutter Maps Tutorials'),
       ),
       body: GridView.builder(
